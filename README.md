@@ -6,8 +6,4 @@ Acá iria el tutorial dale?
 si aca iria
 
 si fabri asi es hace
-
-
-
-
 :)
