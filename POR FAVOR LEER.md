@@ -3,7 +3,7 @@ Repositorio GitHub para prácticos de P2 Primer Semestre 2021
 
 Colaboradores:
 
-    Moonman (Fabrizio)
+    Fabrizio-rar (Fabrizio)
     G4rb4sh (Nicolas)
 
 ## ¿Qué es GitHub?
