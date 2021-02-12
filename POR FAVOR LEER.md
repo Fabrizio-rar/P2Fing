@@ -1,4 +1,4 @@
-# P2Fing
+## P2Fing
 Repositorio GitHub para prácticos de P2 Primer Semestre 2021
 
 Colaboradores:
